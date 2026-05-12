@@ -19,7 +19,7 @@ React로 만든 간단한 할 일 관리 앱입니다.
 - GitHub Secrets에 AWS 키를 등록하여 보안을 유지합니다.
 
 ## AWS S3 URL
-[S3 버킷 웹사이트 엔드포인트 URL]
+[\[S3 버킷 웹사이트 엔드포인트 URL\]](http://my-todo-app-20263621.s3-website-us-east-1.amazonaws.com)
 
 ## 시연 영상
 - GitHub Actions CI/CD 구축 시연:[\[YouTube URL\]](https://youtu.be/yeNMZdHtmmk)
